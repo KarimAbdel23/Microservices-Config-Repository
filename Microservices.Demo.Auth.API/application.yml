@@ -6,4 +6,4 @@ SecurityDatabaseSettings:
     UsersCollectionName: Users
     ConnectionString: mongodb://microservices.demo.auth.db:27017
     DatabaseName: SecurityDB
-    Testdata: test
+    Testdata: KarRepo
