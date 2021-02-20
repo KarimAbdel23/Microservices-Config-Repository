@@ -1,4 +1,3 @@
-
 ServicesUrl:
     ProductApiUrl: http://Microservices.Demo.Product.API/api/pricing  
     PolicyApiUrl: http://Microservices.Demo.Policy.API/api/products
